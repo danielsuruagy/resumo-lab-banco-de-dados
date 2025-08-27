@@ -1,4 +1,4 @@
-# Computação em Nuvem no Azure: Resumo Pessoal
+# Computação em Nuvem no Azure
 
 Eu dei uma olhada no artigo **"Início Rápido: criar Instância Gerenciada de SQL do Azure"** do Microsoft Learning e aqui está o que eu consegui absorver da aula:
 
